@@ -1,10 +1,10 @@
-###Spark Data Pipeline
+### Spark Data Pipeline
 
-####Code accompanying the write-up
+#### Code accompanying the write-up
 
 https://www.thoughtworks.com/insights/blog/capturing-data-pipeline-errors-functionally-writer-monads
 
 
-####Talk : 
+#### Talk : 
 
 https://www.meetup.com/ThoughtWorks-Talks-Tech/events/258313899/
